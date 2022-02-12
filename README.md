@@ -1,4 +1,4 @@
-# ML and Data Science Books 📚  🇧🇷
+# ML and Data Science Books 📚  🇺🇸 
 
 This folder contains books/technical guides related to Machine Learning and Data Science. The order of this book is based on the topics/modules of my specialization in Data Analysis and Engineering course.
 
@@ -15,7 +15,7 @@ This folder contains books/technical guides related to Machine Learning and Data
 ## 6. Text Mining and NLP
 
 
-# Livros de Machine Learning e Data Science 📚  🇺🇸 
+# Livros de Machine Learning e Data Science 📚  🇧🇷
 
 Esta pasta do git contém livros e guias técnicos relacionados a Aprendizado de Máquina (_machine learning_) e Cicência de Dados (_Data Science_). A ordem dos tópicos dos livros é baseada na ordem dos módulos/curso da minha especialização em análise e engenharia de dados. 
 
